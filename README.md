@@ -23,3 +23,5 @@ Najprej s tipko **-** izbirate med načinoma **VPIS** in **KVIZ**. Izbrani nači
 Nato lahko vklopite ali izklopite **BUZZER**. Če je ob napisu **BUZZER** izpisana **1**, je vklopljen, če pa je izpisana **0**, je izklopljen. Stanje spreminjate s tipko **-** in ga potrdite s tipko **.**.
 
 Na enak način nato nastavite še **LED**. Če je ob napisu **LED** izpisana **1**, je vklopljena, če pa je izpisana **0**, je izklopljena. Stanje spreminjate s tipko **-** in ga potrdite s tipko **.**.
+
+**Nastavitve se shranjujejo v EEPROM, tako da bodo po izklopu ostale enake**
